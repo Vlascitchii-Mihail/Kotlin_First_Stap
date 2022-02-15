@@ -54,4 +54,5 @@ fun main() {
 
     println(addNumbers(2, 5))
     println(addNumbers(1.6, 7.3))
+    println("File was edited")
 }
